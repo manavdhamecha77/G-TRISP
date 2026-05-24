@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Car",
+    "color": "#ffa500",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "HCV",
+    "color": "#ff0000",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "Three-wheeler",
+    "color": "#ffff00",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "Two-wheeler",
+    "color": "#800080",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "Bus",
+    "color": "#0000ff",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "LCV",
+    "color": "#00ff00",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "Pedestrian",
+    "color": "#ffc0cb",
+    "type": "any",
+    "attributes": []
+  }
+]

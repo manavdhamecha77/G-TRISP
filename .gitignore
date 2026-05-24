@@ -1,0 +1,32 @@
+# Models
+models/
+*.pt
+*.pth
+
+# Raw Data (Videos, Images, etc.)
+raw_data/
+*.mp4
+*.AVI
+*.avi
+*.mkv
+
+# Processing Runs and Outputs
+Runs/
+*.csv
+*.xml
+
+# Jupyter/IPython Notebooks temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+resume.txt

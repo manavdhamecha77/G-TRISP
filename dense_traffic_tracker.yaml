@@ -1,0 +1,8 @@
+# Optimized ByteTrack for Dense Traffic & Occlusion
+tracker_type: bytetrack
+track_high_thresh: 0.3    # Lowered for better night detection association
+track_low_thresh: 0.05    # Keep very weak detections during occlusion
+new_track_thresh: 0.4     # Confidence needed to start a new track
+track_buffer: 100         # Remember lost objects for 100 frames (4 seconds)
+match_thresh: 0.8         # IOU threshold for matching
+fuse_score: True
